@@ -1,8 +1,8 @@
 # The Funniest Out-of-Office
 
-[![make.fun badge](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/badge.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf)
-[![make.fun rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf/leaderboard)
-[![make.fun reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf)
+[![make.fun](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf)
+[![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/Yetu89/funniest-out-of-office-01/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf)
+[![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/Yetu89/funniest-out-of-office-01/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf)
 
 ## Bounty
 
